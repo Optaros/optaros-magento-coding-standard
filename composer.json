@@ -14,5 +14,6 @@
         "AFL-3.0"
     ],
     "type": "phpcodesniffer-standard",
-    "version": "1.2.0"
+    "version": "1.2.1",
+    "abandoned": "mrm-commerce/magento-coding-standard-phpcs"
 }
